@@ -1,0 +1,22 @@
+.profileWapper {
+    width: 250px;
+    padding: 10px;
+    position: absolute;
+}
+
+.imageArea {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.profileImage {
+    width: 200px;
+}
+
+.profileName {
+    font-weight: bold
+}
+
+.profileCompany {
+    font-size: 12px;
+}
